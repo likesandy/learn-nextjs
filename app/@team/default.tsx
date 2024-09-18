@@ -1,3 +1,3 @@
 export default function Page() {
-  return <div>app default</div>
+  return <div>team default</div>
 }
